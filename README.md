@@ -2,7 +2,7 @@
 
 The Biological Connection Markup Language (BCML) format, as first described by Beltrame, Calura, *et al.* (2011), has been successfully used in the past years in order to describe multiple regulatory networks and pathways, especially Dendritic Cells-related intracellular signalling pathways. These pathways have been collected into a set of maps available in the [DC-Atlas resource](http://compbiotoolbox.fmach.it/DCATLAS.php).
 
-In order to visualise this data using softwares similar to CellDesigner, we developed a simple converter from BCMl to SBML (version 2, level 4).
+In order to visualise this data using softwares similar to [CellDesigner](http://celldesigner.org/), we developed a simple converter from BCMl to SBML (version 2, level 4).
 
 
 ## Workflow
